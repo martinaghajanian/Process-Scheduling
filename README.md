@@ -26,3 +26,7 @@
    Enter the number of processes and provide their arrival times and burst times as prompted.
 
 The program will display the Gantt charts, and process details for both FCFS and SJF algorithms.
+
+## Example Output Screenshot
+
+![Program Output Screenshot](output.png)
