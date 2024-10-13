@@ -6,7 +6,7 @@
    Contains the `Process` structure and function prototypes for both scheduling algorithms (FCFS and SJF).
 
 2. **process_scheduling.c**  
-   Implements the FCFS and SJF algorithms, calculates waiting, turnaround, and response times, and prints the Gantt chart.
+   Implements the FCFS and SJF algorithms, calculates waiting, turnaround, and response times, and prints the Gantt chart fro both FCFS & SJF.
 
 ## How to Run
 
